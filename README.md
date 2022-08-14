@@ -1,2 +1,2 @@
-# Customer_Segmentation
+# Online_Retail_Customer_Segmentation
 Clustering of customer 
