@@ -1,2 +1,2 @@
 # Online_Retail_Customer_Segmentation
-Clustering of customer 
+Developed a Clustering model using K-means to identify major customer segmentation on data to optimize the impact of marketing campaign.
