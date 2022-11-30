@@ -11,14 +11,30 @@ In this project, task is to identify major customer segments on a transnational 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :book: K-Means Clustering </h2>
+K-Means Clustering i unsupervised learning algorithm, that groups the unlabeled data into different clusters. K in K-Means defined the Number of pre defined clusters
+that need to create in process.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :clipboard: Execution Instruction</h2>
 
+Online Retail Customer Segmentation.ipynb file is Google colab file that can be run directly on google colab and this file can also be download and run on localy using VS code or Jupyter notebook.
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> :book: Conclusion </h2>
+<h2> :book: Steps Performed and Conclusion </h2>
+
+As first step data wrangling and data preprocessing, handled the missing values and clean the data.
+
+Performed EDA to observe trend.
+
+Performed RFM technique for transaction data.
+
+train the data on K-means and Hierarchical clustering on unlaneled data.
+
+Checked the optimal number of cluster using Elbow method and silhouette mrthod.
+
+K-Means gives the 3 clusters for the data.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
